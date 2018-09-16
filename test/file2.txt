@@ -1,0 +1,3 @@
+awesome print filestring awesome
+new string
+hello world i am world and hello to you
